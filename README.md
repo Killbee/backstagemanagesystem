@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 项目为全栈项目
 
 client为前端 server为服务端
@@ -20,3 +21,7 @@ client为前端 server为服务端
      分别在两个终端中执行npm start
 
      项目启动
+=======
+# backstagemanagesystem
+基于react的后台管理系统
+>>>>>>> 6a908f7228fd307ff371cbdf8707befcf8f00050
